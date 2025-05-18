@@ -1,5 +1,3 @@
-#include <mcp_can.h>
-#include <SPI.h>
 #include "vesc_can_bus_arduino.h"
 
 // Constructor
